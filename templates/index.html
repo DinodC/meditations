@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="container">
+  <img src="{{url_for('static', filename=image)}}">
+    <div class="centered">
+      <q>
+        {{ quote }}
+      </q>
+    </div>
+</div>
+
+{% endblock %}
