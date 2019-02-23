@@ -104,10 +104,9 @@ quotes_list = [
     Disgraceful for the soul to give up when the body is still going strong.
     """,
     """
-    To escape imperialization-that indelible stain. It happens. Make sure you
-    remain straightforward, upright, reverent, serious, unadorned, an ally of
-    justice, pious, kind, affectionate, and doing your duty with a will. Fight
-    to be the person philosophy tried to make you.
+    Make sure you remain straightforward, upright, reverent, serious, unadorned,
+    an ally of justice, pious, kind, affectionate, and doing your duty with a
+    will. Fight to be the person philosophy tried to make you.
     """,
     """
     Revere the gods; watch over human beings. Our lives are short. The only
@@ -117,50 +116,41 @@ quotes_list = [
     Take Antoninus as your model, always. His energy in doing what was rational
     ... his steadiness in any situation... his sense of reverence... his calm
     expression... his gentleness... his modesty... his eagerness to grasp things.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. How he never let things go before he was
      sure he had examined them thoroughly, understood them perfectly... the way
      he put up with unfair criticism, without returning it.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. How he couldn't be hurried... how he
     wouldn't listen to informers.
-    So that when your times comes, your conscience will be clear as his.
     """,
     """
     Take Antoninus as your  model always. How reliable he was as a judge of
     character, and of actions... not prone to backbiting, or cowardice, or
     jealousy, or empty rhetoric.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. How he was content with the basics - in
     living quarters, bedding, clothes, food, servants.
-    So that when your time come, your consciences will be as clear as his.
     """,
     """
     Take Antoninus as your model always. How hard he worked, how much he put up
     with... his ability to work straight through till dusk - because of his
     simple diet (he didn't even need to relieve himself, except at set times).
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. How his constancy and reliability as a
     friend.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. His tolerance of people who openly
     questioned his views and his delight at seeing his ideas improved on.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Take Antoninus as your model always. His piety - without a trace of
     superstition.
-    So that when your time comes, your conscience will be as clear as his.
     """,
     """
     Awaken; return to yourself. Now, no longer asleep, knowing they were only
@@ -209,7 +199,7 @@ quotes_list = [
     All of us are working on the same project. Some consciously, with
     understanding; some without knowing it. Some of us work in one way, and some
     in others. And those who complain and try to obstruct and thwart things -
-    they help as much as anyone. The world needs them as well.
+    they help as much as anyone.
     """,
     """
     So make up your mind who you'll choose to work with. The force that directs
@@ -236,7 +226,6 @@ quotes_list = [
     Whatever happens to you is for the good of the world. That would be enough
     right there. But if you look closely you'll generally notice something else
     as well: whatever happens to a single person is for the good of others.
-    (Good in the ordinary sense - as the world defines it.)
     """,
     """
     Keep this constantly in mind: that all sorts of people have died - all
