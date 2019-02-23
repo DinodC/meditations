@@ -8,10 +8,9 @@ quotes_list = [
     Familiar, transient.
     """,
     """
-    You cannot quench understanding unless you put out the insights that compose
-    it. But you can rekindle those at will, like glowing coals. I can control my
-    thoughts as necessary; then how can I be troubled? What is outside my mind
-    means nothing to it. Absorb that lesson and your feet stand firm.
+    I can control my thoughts as necessary; then how can I be troubled? What is
+    outside my mind means nothing to it. Absorb that lesson and your feet stand
+    firm.
     """,
     """
     Focus on what is said when you speak and on what results from each action.
@@ -52,9 +51,9 @@ quotes_list = [
     Well being is good luck, or good character.
     """,
     """
-    (But what are you doing here, Perceptions? Get back to where you came from,
+    But what are you doing here, Perceptions? Get back to where you came from,
     and good riddance. I don't need you. Yes, I know, it was only force of habit
-    that brought you. No, I'm not angry with you. Just go away.)
+    that brought you. No, I'm not angry with you. Just go away.
     """,
     """
     My only fear is doing something contrary to human nature - the wrong thing,
@@ -64,8 +63,7 @@ quotes_list = [
     To feel affection for people even when they make mistakes is uniquely human.
     You can do it, if you simply recognize: that they're human too, that they
     act out of ignorance, against their will, and that you'll both be dead
-    before long. And, above all, that they haven't really hurt you. They haven't
-    diminished your ability to choose.
+    before long. And, above all, that they haven't really hurt you.
     """,
     """
     Anger in the face is unnatural.
@@ -73,10 +71,7 @@ quotes_list = [
     """
     When people injure you, ask yourself what good or harm they thought would
     come of it. If you understand that, you'll feel sympathy rather than outrage
-    or anger. Your sense of good and evil may be the same as theirs, near it, in
-    which case you have to excuse them. Or your sense of good and evil may
-    differ from theirs. In which case they're misguided and deserve your
-    compassion. Is that so hard?
+    or anger.
     """,
     """
     Treat what you don't have as nonexistent. Look at what you have, the things
@@ -86,15 +81,43 @@ quotes_list = [
     """,
     """
     Discard your misperceptions.
+    """,
+    """
     Stop being jerked like a puppet.
+    """,
+    """
     Limit yourself to the present.
+    """,
+    """
     Understand what happens - to you, to others.
+    """,
+    """
     Analyze what exists, break it all down: material and cause.
+    """,
+    """
     Anticipate your final hours.
+    """,
+    """
     Other people's mistakes? Leave them to their makers.
     """,
     """
+    [On death:] If atoms, dispersed. If oneness, quenched or changed.
+    """,
+    """
+    [On pain:] Unendurable pain brings its own end with it. Chronic pain is always
+    endurable: the intelligence maintains serenity by cutting itself off from
+    the body, the mind remains undiminished.
+    """,
+    """
+    [On ambition:] How their minds work, the things they long for and fear. Events like piles
+    of sand, drift upon drift - each one soon hidden by the next.
+    """,
+    """
     'Kingship: to earn a bad reputation by good deeds.'
+    """,
+    """
+    To direct your thoughts on what is said. To focus the mind on what happens
+    and what makes it happen.
     """,
     """
     'And why should we feel anger at the world?
@@ -120,7 +143,7 @@ quotes_list = [
         * to accept this event with humility
         * to treat this person as he should be treated
         * to approach this thought with care, so that nothing irrational
-        creeps in
+        creeps in.
     """,
     """
     Don't pay attention to other people's minds. Look straight ahead, where
@@ -128,14 +151,9 @@ quotes_list = [
     you; and your own nature, through your own actions.
     """,
     """
-    Now, the main thing we were made for is to work with others.
-    Secondly, to resist our body's urges. Because things driven by logos - by
-    thought - have the capacity for detachment - to resist impulses and
-    sensations, both of which are merely corporeal. Thought seeks to be their
-    master, not their subject. And so it should: they were created for its use.
-    And the third thing is to avoid rashness and credulity.
-    The mind that grasps this and steers straight ahead should be able to hold
-    its own.
+    Now, the main thing we were made for is to work with others. Secondly, to
+    resist our body's urges. And the third thing is to avoid rashness and
+    credulity.
     """,
     """
     Think of yourself as dead. You have lived your life. Now take what's left
@@ -158,8 +176,10 @@ quotes_list = [
     For the times when you feel pain:
     See that it doesn't disgrace you, or degrade your intelligence - doesn't
     keep it from acting rationally or unselfishly.
+    """,
+    """
     And in most cases what Epicurus said should help: that pain is neither
-    unbearable nor unending, as long as you keep in  mind its limits and don't
+    unbearable nor unending, as long as you keep in mind its limits and don't
     magnify them in your imagination.
     """,
     """
@@ -195,9 +215,3 @@ quotes_list = [
     directs its will are completely random.
     """
 ]
-
-# # Test how it comes out in the terminal
-# number_elements = len(quotes_list)
-# print(number_elements)
-# for i in range(0, number_elements):
-#     print(quotes_list[i])
