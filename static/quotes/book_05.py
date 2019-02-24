@@ -1,24 +1,19 @@
 quotes_list = [
     """
-    At dawn, when you have trouble getting out of bed, tell yourself: "I have to
+    At dawn, when you have trouble getting out of bed, tell yourself: 'I have to
     go to work - as a human being. What do I have to complain of, if I'm going
-    to do what I was born for - the things I was brought into the world to do?
-    Or is this what I was created for? To huddle under the blankets and stay
-    warm?"
+    to do what I was born for - the things I was brought into the world to do?'
     """,
     """
-    -But we have to sleep sometime.... Agreed. But nature set a limit on that -
+    But we have to sleep sometime.... Agreed. But nature set a limit on that -
     as it did on eating and drinking. And you're over the limit. You've had more
      than enough of that. But not of working. There you're still below your
      quota.
     """,
     """
-    People who love what they do wear themselves down doing it, they even forget
-    to wash or eat. Do you have less respect for your own nature than the
-    engraver does for engraving, the dancer for the dance, the miser for money
-    or the social climber for status? When they're really possessed by what they
-    do, they'd rather stop eating and sleeping than give up practicing their
-    arts.
+    You don't love yourself enough. Or you'd love your nature too, and what it
+    demands of you. People who love what they do wear themselves down doing it,
+    they even forget to wash or eat.
     """,
     """
     To shrug it all off and wipe it clean - every annoyance and distraction -
@@ -32,7 +27,10 @@ quotes_list = [
     """
     Practice the virtues you can show: honesty, gravity, endurance, austerity,
     resignation, abstinence, patience, sincerity, moderation, seriousness, high-
-    mindedness. Don't you see how much you have to offer - beyond excuses like
+    mindedness.
+    """,
+    """
+    Don't you see how much you have to offer - beyond excuses like
     'can't'? And yet you still settle for less.
     """,
     """
@@ -51,10 +49,12 @@ quotes_list = [
     """,
     """
     Just as you overhear people saying that 'the doctor prescribed such-and-such
-    for him' (like riding, or cold baths,or walking barefoot...), say this:
-    'Nature prescribed illness for him.' Or blindness. Or the loss of a limb. Or
-    whatever. There 'prescribed' means something like 'ordered, so as to further
-    his recovery.' And so too here. What happens to each of us is ordered. It
+    for him', say this: 'Nature prescribed illness for him.' Or blindness. Or
+    the loss of a limb. Or whatever. There 'prescribed' means something like
+    'ordered, so as to further his recovery.'
+    """,
+    """
+    And so too here. What happens to each of us is ordered. It
     furthers our destiny.
     """,
     """
@@ -65,22 +65,27 @@ quotes_list = [
     """
     Accept it because of what it leads to: the good health of the world and the
     well-being and prosperity of Zeus himself, who would not have brought this
-    on anyone unless it brought benefit to the world as a whole. No nature would
-    do that - bring something about that wasn't beneficial to what it governed.
+    on anyone unless it brought benefit to the world as a whole.
     """,
     """
-    So there are two reasons to embrace what happens. One is that it's happening
-    to you. It was prescribed for you, and it pertains to you. The thread was
-    spun long ago, by the oldest cause of all.
-    The other reason is that what happens to an individual is a cause of well -
-    being in what directs the world - of its well-being, its fulfillment, of its
-    very existence, even.
+    No nature would do that - bring something about that wasn't beneficial to
+    what it governed.
+    """,
+    """
+    So there is a reason to embrace what happens to you. It was prescribed for
+    you, and it pertains to you. The thread was spun long ago, by the oldest
+    cause of all.
+    """,
+    """
+    So there is a reason to embrace what happens to you. What happens to an
+    individual is a cause of well-being in what directs the world - of its
+    well-being, its fulfillment, of its very existence, even.
     """,
     """
     Not to feel exasperated, or defeated, or despondent because your days aren't
     packed with wise and moral actions. But to get back up when you fail, to
-    celebrate behaving like a human - however imperfectly - and fully embrace
-    the pursuit that you've embarked on.
+    celebrate behaving like a human and fully embrace the pursuit that you've
+    embarked on.
     """,
     """
     We need to comfort ourselves and wait for dissolution. And not get impatient
@@ -133,24 +138,24 @@ quotes_list = [
     """
     The mind is the ruler of the soul. It should remain unstirred by agitations
     of the flesh - gentle and violent ones alike. Not mingling with them, but
-    fencing itself off and keeping those feelings in their place. When they make
-    their way into your thoughts, through the sympathetic link between mind and
-    body, don't try to resist the sensation. The sensation is natural. But don't
-    let the mind start in with judgments, calling it 'good' or 'bad'.
+    fencing itself off and keeping those feelings in their place.
+    """,
+    """
+    When they make their way into your thoughts, through the sympathetic link
+    between mind and body, don't try to resist the sensation. The sensation is
+    natural. But don't let the mind start in with judgments, calling it 'good'
+    or 'bad'.
     """,
     """
     Don't be irritated at people's smell or bad breath. What's the point? With
-    that mouth, with those armpits, they're going to produce that odor.
-    - But they have a brain! can't they figure it out? Can't they recognize the
-    problem? So you have a brain as well. Good for you. Then use your logic to
-    awaken his. Show him. Make him realize it. If he'll listen, then you'll
-    solve the problem. Without anger.
+    that mouth, with those armpits, they're going to produce that odor. Use your
+    logic to awaken his. Show him. Make him realize it. If he'll listen, then
+    you'll solve the problem. Without anger.
     """,
     """
-    Consider all that you've gone through, all that you've survived. And that
-    the story of your life is done, your assignment complete. How many good
-    things have you seen? How much pain and pleasure have you resisted? How many
-    honors have you declined? How many unkind people have you been kind to?
+    Consider all that you've gone through, all that you've survived. How many
+    good things have you seen? How much pain and pleasure have you resisted? How
+    many honors have you declined? How many unkind people have you been kind to?
     """,
     """
     Honor and revere the gods, treat human beings as they deserve, be tolerant
