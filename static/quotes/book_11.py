@@ -4,19 +4,16 @@ quotes_list = [
     Analyze the melody into the notes that form it, and as you hear each one,
     ask yourself whether you're powerless against that. That should be enough
     to deter you.
-    The same with dancing: individual movements and tableaux. And the same with
-    the martial arts.
-    And with everything - except virtue and what springs from it. Look at the
-    individual parts and move from analysis to indifference.
-    Apply this to life as a whole.
     """,
     """
-    The resolute soul:
-    Resolute in separation from the body. And then in the dissolution or
-    fragmentation - or continuity.
+    Look at the individual parts and move from analysis to indifference. Apply
+    this to life as a whole.
+    """,
+    """
+    The resolute soul: resolute in separation from the body. And then in the
+    dissolution or fragmentation - or continuity.
     But the resolution has to be the result of its own decision, not just in
-    response to outside forces. It has to be considered and serious, persuasive
-    to other people. Without dramatics.
+    response to outside forces.
     """,
     """
     The branch is cut off by someone else. But people cut themselves off -
@@ -37,13 +34,16 @@ quotes_list = [
     It's the pursuit of these things, and your attempts to avoid them, that
     leave you in such turmoil. And yet they aren't seeking you out; you are the
     one seeking them.
+    """,
+    """
     Suspend judgment about them. And at once they will lie still, and you will
     be freed from fleeing and pursuing.
     """,
     """
-    Someone despises me.
-    That's their problem.
+    Someone despises me. That's their problem.
     Mine: not to do or say anything despicable.
+    """,
+    """
     Someone hates me. Their problem.
     Mine: to be patient and cheerful with everyone, including them. Ready to
     show them their mistake. Not spitefully, or to show off my own self-control,
@@ -54,11 +54,10 @@ quotes_list = [
     another makes them bow and scrape.
     """,
     """
-    The despicable phoniness of people who say, "Listen, I'm going to level with
-    you here." What does that mean? It shouldn't even need to be said. It should
+    The despicable phoniness of people who say, 'Listen, I'm going to level with
+    you here.' What does that mean? It shouldn't even need to be said. It should
     be obvious - written in block letters on your forehead. It should be audible
-    in your voice, visible in your eyes, like a lover who looks into your face
-    and takes in the whole story at a glance.
+    in your voice, and visible in your eyes.
     """,
     """
     A straightforward, honest person should be like someone who stinks: when
@@ -71,14 +70,18 @@ quotes_list = [
     unmistakable.
     """,
     """
-    To live a good life:
-    We have the potential for it. If we can learn to be indifferent to what
-    makes no difference. This is how we learn: by looking at each thing, both
-    the parts and the whole. Keeping in mind that none of them can dictate how
-    we perceive it. They don't perceive it. They don't impose themselves on us.
-    They hover before us, unmoving. It is we who generate the judgments -
-    inscribing them on ourselves. And we don't have to. We could leave the page
-    blank - and if a mark slips through, erase it instantly.
+    To live a good life: We have the potential for it. If we can learn to be
+    indifferent to what makes no difference.
+    """,
+    """
+    This is how we learn: by looking at each thing, both the parts and the
+    whole. Keeping in mind that none of them can dictate how we perceive it.
+    """,
+    """
+    They don't perceive it. They don't impose themselves on us. They hover
+    before us, unmoving. It is we who generate the judgments - inscribing them
+    on ourselves. And we don't have to. We could leave the page blank - and if
+    a mark slips through, erase it instantly.
     """,
     """
     And why is it so hard when things go against you? If it's imposed by nature,
@@ -104,21 +107,24 @@ quotes_list = [
     """
     That it's not what they do that bothers us: that's a problem for their minds,
     not ours. It's our own misperceptions. Discard them. Be willing to give up
-    thinking of this as a catastrophe... and your anger is gone. How do you do
-    that? By recognizing that you've suffered no disgrace. Unless disgrace is
-    the only thing that can hurt you, you're doomed to commit inumerable
-    offenses - to become a thief, or heaven only knows what else.
+    thinking of this as a catastrophe... and your anger is gone.
+    """,
+    """
+    How do you do that? By recognizing that you've suffered no disgrace.
+    Unless disgrace is the only thing that can hurt you, you're doomed to commit
+    inumerable offenses - to become a thief, or heaven only knows what else.
     """,
     """
     How much more damage anger and grief do than the things that cause them.
     """,
     """
     That kindness is invincible, provided it's sincere - not ironic or an act.
+    """,
+    """
     What can even the most vicious person do if you keep treating him with
-    kindness and gently set him straight - if you get the chance - correcting
-    him cheerfully at the exact moment that he's trying to do you harm. "No, no,
-    my friend. That isn't what we're here for. It isn't me who's harmed by that.
-    It's you." And show him, gently and without pointing fingers, that it's so.
+    kindness and gently set him straight - correcting him cheerfully at the
+    exact moment that he's trying to do you harm. 'No, no, my friend. That isn't
+    what we're here for. It isn't me who's harmed by that. It's you.'
     """,
     """
     That to expect bad people not to injure others is crazy. It's to ask the
@@ -126,15 +132,12 @@ quotes_list = [
     to exempt you is arrogant - the act of a tyrant.
     """,
     """
-    Four habits of thought to watch for, and erase from your mind when you catch
-    them. Tell yourself:
+    Four habits of thought to watch for:
         * This thought is unnecessary
         * This one is destructive to the people around you
-        * This wouldn't be what you really think (to say what you don't think -
-        the definition of absurdity).
-    And the fourth reason for self-reproach: that the more divine part of you
-    has been beaten and subdued by the degraded mortal part - the body and its
-    stupid self-indulgence.
+        * This wouldn't be what you really think.
+    And that the more divine part of you has been beaten and subdued by the
+    degraded mortal part.
     """,
     """
     If you don't have a consistent goal in life, you can't live it in a
@@ -147,7 +150,7 @@ quotes_list = [
     actions will be consistent. And so will you.
     """,
     """
-    Socrates used to call popular beliefs "the monsters under the bed" - only
+    Socrates used to call popular beliefs 'the monsters under the bed' - only
     useful for frightening children with.
     """,
     """
@@ -155,8 +158,8 @@ quotes_list = [
     themselves down anywhere.
     """,
     """
-    Socrates declining Perdiccas's invitation "so as to avoid dying a thousand
-    deaths" (by accepting a favor he couldn't pay back).
+    Socrates declining Perdiccas's invitation 'so as to avoid dying a thousand
+    deaths' (by accepting a favor he couldn't pay back).
     """,
     """
     The Pythagoreans tell us to look at the stars at daybreak. To remind
@@ -170,19 +173,13 @@ quotes_list = [
     Stupidity is expecting figs in winter, or children in old age.
     """,
     """
-    As you kiss your son good night, says Epictetus, whisper to yourself, "He
-    may be dead in the morning."
+    As you kiss your son good night, says Epictetus, whisper to yourself, 'He
+    may be dead in the morning.'
     """,
     """
-    "We need to master the art of acquiescence. We need to pay attention to our
+    'We need to master the art of acquiescence. We need to pay attention to our
     impulses, making sure they don't go unmoderated, that they benefit others,
     that they're worthy of us. We need to steer clear of desire in any form and
-    not try to avoid what's beyond our control."
+    not try to avoid what's beyond our control.'
     """
 ]
-
-# # Test how it comes out in the terminal
-# number_elements = len(quotes_list)
-# print(number_elements)
-# for i in range(0, number_elements):
-#     print(quotes_list[i])
