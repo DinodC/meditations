@@ -12,8 +12,7 @@ quotes_list = [
     Don't look down on death, but welcome it. It too is one of the things
     required by nature. Like youth and old age. Like growth and maturity. Like a
     new set of teeth, a bear, the first gray hair. Like sex and pregnancy and
-    childbirth. Like all the other physical changes at each stage of life, our
-    dissolution is no different.
+    childbirth.
     """,
     """
     So this is how a thoughtful person should await death: not with indifference,
@@ -96,9 +95,7 @@ quotes_list = [
     only there - and clear out space for yourself:
     ...by comprehending the scale of the world
     ...by contemplating infinite time
-    ...by thinking of the speed with which things change - each part of every
-    thing; the narrow space between our birth and death; the infinite time
-    before; the equally unbounded time that follows.
+    ...by thinking of the speed with which things change.
     """,
     """
     If they've injured you, then they're the ones who suffer for it. But have
@@ -119,11 +116,13 @@ quotes_list = [
     """,
     """
     When you run up against someone else's shamelessness, ask yourself this: Is
-    a world without shamelessness possible?
-    No.
-    Then don't ask the impossible. There have to be shamelessness people in the
-    world. This is one of them.
-    The same for someone vicious or untrustworthy, or with any other defect.
+    a world without shamelessness possible? No. Then don't ask the impossible.
+    """,
+    """
+    There have to be shameless people in the world. This is one of them. The
+    same for someone vicious or untrustworthy, or with any other defect.
+    """,
+    """
     Remembering that the whole class has to exist will make you more tolerant of
     its members.
     """,
@@ -141,9 +140,3 @@ quotes_list = [
     perform our function.
     """
 ]
-
-# # Test how it comes out in the terminal
-# number_elements = len(quotes_list)
-# print(number_elements)
-# for i in range(0, number_elements):
-#     print(quotes_list[i])

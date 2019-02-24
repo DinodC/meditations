@@ -22,7 +22,7 @@ def index():
     # book_to_import = import_module('static.quotes.' + temp_bookname)
 
     # For testing, fix book number
-    book_to_import = import_module('static.quotes.book_' + '08')
+    book_to_import = import_module('static.quotes.book_' + '09')
 
 
     # Pick a quote
@@ -30,7 +30,7 @@ def index():
     temp_quote = random.choice(temp_quote_list)
 
     # For testing, fix quote index
-    temp_quote = temp_quote_list[39]
+    temp_quote = temp_quote_list[27]
 
 
     #  Pick an image
