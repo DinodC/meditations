@@ -1,11 +1,10 @@
 quotes_list = [
     """
     And instead be satisfied with what you have, and accept the present - all of
-    it. And convince yourself that everything is the gift of the gods, that
-    things are good, and always will be, whatever they decide and have in store
-    for the preservation of that perfect entity - good and just and beautiful,
-    creating all things, connecting and embracing them, and gathering in their
-    separated fragments to create more like them.
+    it.
+    """,
+    """And convince yourself that everything is the gift of the gods, that
+    things are good, and always will be.
     """,
     """
     Everything that happens is either endurable or not.
@@ -21,19 +20,23 @@ quotes_list = [
     So by keeping in mind the whole I form a part of, I'll accept whatever
     happens. And because of my relationship to other parts, I will do nothing
     selfish, but aim instead to join them, to direct my every action toward what
-    benefits us all and to avoid what doesn't. If I do all that, then my life
-    should go smoothly.
+    benefits us all and to avoid what doesn't.
     """,
     """
     Epithets for yourself: Upright. Modest. Straightforward. Sane. Cooperative.
-    Disinterested.
-    Try not to exchange them for others.
-    And if you should forfeit them, set about getting them back.
-    Keep in mind that "sanity" means understanding things - each individual
+    Disinterested. Try not to exchange them for others. And if you should
+    forfeit them, set about getting them back.
+    """,
+    """
+    Keep in mind that 'sanity' means understanding things - each individual
     thing - for what they are. And not losing the thread.
-    And "cooperation" means accepting what nature assigns you - accepting it
+    """,
+    """
+    And 'cooperation' means accepting what nature assigns you - accepting it
     willingly.
-    And "disinterest" means that the intelligence should rise about the
+    """,
+    """
+    And 'disinterest' means that the intelligence should rise about the
     movements of the flesh - the rough and smooth alike. Should rise above fame,
     above death, and everything like them.
     """,
@@ -53,11 +56,6 @@ quotes_list = [
     He has stripped away his body and - realizing that at some point soon he
     will have to abandon mankind and leave all this behind - has dedicated
     himself to serving justice in all he does, and nature in all that happens.
-    What people say or think about him, or how they treat him, isn't something
-    he worries about. Only these two questions: Is what he's doing now the right
-    thing to be doing? Does he accept and welcome what he's been assigned? He
-    has stripped away all other occupations, all other tasks. He wants only to
-    travel a straight path - to God, by way of law.
     """,
     """
     Why all this guesswork? You can see what needs to be done. If you can see
@@ -106,8 +104,7 @@ quotes_list = [
     To bear in mind constantly that all of this has happened before. And will
     happen again - the same plot from the beginning to end, the identical
     staging. Produce them in your mind, as you know them from experience or from
-    history: the court of Hadrian, of Antoninus. The courts of Philip, Alexander,
-    Croesus. All just the same. Only the people different.
+    history. All just the same. Only the people different.
     """,
     """
     That everything has to submit. But only rational beings can do so
@@ -127,38 +124,33 @@ quotes_list = [
     scientifically.
     """,
     """
+    That no once can say truthfully that you are not a straightforward or honest
+    person. That anyone who thinks that believes a falsehood.
+    """,
+    """
     The responsibility is all yours; no one can stop you from being honest or
-    straightforward or honest person. That anyone who thinks that believes a
-    falsehood. The responsibility is all yours; no one can stop you from being
-    honest or straightforward. Simply resolve not to go on living if you aren't.
-    It would be contrary to the logos.
+    straightforward. Simply resolve not to go on living if you aren't. It would
+    be contrary to the logos.
+    """,
+    """
+    In all other entities, when anything bad happens to them, it affects them
+    for the worse. Whereas here a person is improved by it (if I can put it like
+    that) - and we admire him for reacting as a person should.
     """,
     """
     If you've immersed yourself in the principles of truth, the briefest, most
     random reminder is enough to dispel all fear and pain:
-        ...leaves that the wind
-        Drives earthward; such are the generations of men.
+    ...leaves that the wind drives earthward; such are the generations of men.
     Your children, leaves.
     """,
     """
-    A healthy pair of eyes should see everything that can be seen and not say,
-    "No! Too bright!"
-    A healthy sense of hearing or smell should be prepared for any sound or
-    scent; a healthy stomach should have the same reaction to all foods, as a
-    mill to what it grinds.
-    So too a healthy mind should be prepared for anything. The one that keeps
-    saying, "Are my children all right?" or "Everyone must approve of me" is
-    like eyes that can only stand pale colors, or teeth that can handle only
-    mush.
+    A healthy pair of eyes should see everything that can be seen. A healthy
+    sense of hearing or smell should be prepared for any sound or scent; a
+    healthy stomach should have the same reaction to all foods. So too a healthy
+    mind should be prepared for anything.
     """,
     """
     Learn to ask of all actions, "Why are they doing that?"
     Starting with your own.
     """
 ]
-
-# # Test how it comes out in the terminal
-# number_elements = len(quotes_list)
-# print(number_elements)
-# for i in range(0, number_elements):
-#     print(quotes_list[i])
