@@ -53,10 +53,10 @@ quotes_list = [
     noble nor shameful - and hence neither good nor bad.
     """,
     """
-    Nothing is more pathetic than people who run around in circles, "delving
-    into the things that lie beneath" and conducting investigations into the
-    souls of the people around them, never realizing that all you have to do is
-    to be attentive to the power inside you and worship it sincerely.
+    Nothing is more pathetic than people who run around in circles, conducting
+    investigations into the souls of the people around them, never realizing
+    that all you have to do is to be attentive to the power inside you and
+    worship it sincerely.
     """,
     """
     What is divine deserves our respect because it is good; what is human
@@ -77,7 +77,7 @@ quotes_list = [
     """
     Remember that everything has always been the same, and keeps recurring, and
     it makes no difference whether you see the same things recur in a hundred
-    years or two hundred, or in an infinite periodself.
+    years or two hundred, or in an infinite period.
     """,
     """
     Remember that the longest-lived and those who will die soonest lose the same
@@ -105,6 +105,10 @@ quotes_list = [
     The human soul degrades itself when it allows action and impulse to be
     without a purpose, to be random and disconnected: even the smallest things
     ought to be directed toward a goal.
+    """,
+    """
+    The body and its parts are a river, the soul a dream and mist, life is
+    warfare and a journey far from home, lasting reputation is oblivion.
     """,
     """
     Which means making sure that the power within stays safe and free from
