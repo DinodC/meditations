@@ -5,6 +5,9 @@ quotes_list = [
     It pursues its own aims as circumstances allow; it turns obstacles into fuel.
     """,
     """
+    No random actions, none not based on underlying principles.
+    """,
+    """
     People try to get away from it all - to the country, to the beach, to the
     mountains. You always wish that you could too. Which is idiotic: you can get
     away from it anytime you like. By going within.
@@ -53,7 +56,10 @@ quotes_list = [
     Two kinds of readiness are constantly needed: (i) to do only what the logos
     of authority and law directs, with the good of human beings in mind; (ii) to
     reconsider your position, when someone can set you straight or convert you
-    to his. But your conversion should always rest on a conviction that it's
+    to his.
+    """,
+    """
+    But your conversion should always rest on a conviction that it's
     right, or benefits others - nothing else. Not because it's more appealing or
     more popular.
     """,
@@ -64,6 +70,10 @@ quotes_list = [
     """
     Not to live as if you had endless years ahead of you. Death overshadows you.
     While you're alive and able - be good.
+    """,
+    """
+    The tranquility that comes when you stop caring what they say. Or think, or
+    do. Only what you do. (Is this fair? Is this the right thing to do?)
     """,
     """
     To run straight for the finish line, unswerving.
@@ -87,6 +97,17 @@ quotes_list = [
     yourself. Someone has done wrong... to himself. Something happens to you.
     Good. It was meant for you by nature, woven into the pattern from the
     beginning.
+    """,
+    """
+    You've seen that. Now look at this. Don't be disturbed. Uncomplicate
+    yourself.
+    """,
+    """
+    Someone had done wrong...to himself.
+    """,
+    """
+    Something happens to you. Good. It was
+    meant for you by nature, woven into the pattern from the beginning.
     """,
     """
     Life is short. That's all there is to say. Get what you can from the present

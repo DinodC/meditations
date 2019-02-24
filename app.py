@@ -22,7 +22,7 @@ def index():
     # book_to_import = import_module('static.quotes.' + temp_bookname)
 
     # For testing, fix book number
-    book_to_import = import_module('static.quotes.book_' + '03')
+    book_to_import = import_module('static.quotes.book_' + '04')
 
 
     # Pick a quote
