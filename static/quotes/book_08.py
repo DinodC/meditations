@@ -2,15 +2,17 @@ quotes_list = [
     """
     So you know how things stand. Now forget what they think of you. Be satisfied
     if you can live the rest of your life, however short, as your nature demands.
-    Focus on that, and don't let anything distract you. You've wandered all over
-    and finally realized that you never found what you were after: how to live.
-    Not in syllogisms, not in money, or fame, or self-indulgence. Nowhere.
+    Focus on that, and don't let anything distract you.
     """,
     """
-    -What principles?
-    Those to do with good and evil. That nothing is good except what leads to
-    fairness, and self-control, and courage, and free will. And nothing bad
-    except what does the opposite.
+    You've wandered all over and finally realized that you never found what you
+    were after: how to live. Not in syllogisms, not in money, or fame, or
+    self-indulgence. Nowhere.
+    """,
+    """
+    What principles? Those to do with good and evil. That nothing is good except
+    what leads to fairness, and self-control, and courage, and free will. And
+    nothing bad except what does the opposite.
     """,
     """
     For every action, ask: How does it affect me? Could I change my mind about
@@ -18,8 +20,10 @@ quotes_list = [
     """,
     """
     The first step: Don't be anxious. Nature controls it all. And before long
-    you'll be no one, nowhere - like Hadrian, like Augustus.
-    The second step: Concentrate on what you have to do. Fix your eyes on it.
+    you'll be no one, nowhere - like Hadrian, like Augustus. The second step:
+    Concentrate on what you have to do. Fix your eyes on it.
+    """,
+    """
     Remind yourself that your task is to be a good human being; remind yourself
     what nature demands of people. Then do it, without hesitation, and speak the
     truth as you see it. But with kindness. With humility. Without hypocrisy.
@@ -31,16 +35,15 @@ quotes_list = [
     """,
     """
     Remorse is annoyance at yourself for having passed up something that's to
-    your benefit. But if it's to your benefit it must be good - something a
-    truly good person would be concerned about.
-    But no truly good person would feel remorse at passing up pleasure.
-    So it cannot be to your benefit, or good.
+    your benefit. But if it's to your benefit it must be good. But no truly good
+    person would feel remorse at passing up pleasure. So it cannot be to your
+    benefit, or good.
     """,
     """
     When you have trouble getting out of bed in the morning, remember that your
-    defining characteristic - what defines a human being - is to work with
-    others. Even animals know how to sleep. And it's the characteristic activity
-    that's the more natural one - more innate and more satisfying.
+    defining characteristic is to work with others. Even animals know how to
+    sleep. And it's the characteristic activity that's the more natural one -
+    more innate and more satisfying.
     """,
     """
     Apply them constantly, to everything that happens: Physics. Ethics. Logic.
@@ -179,9 +182,3 @@ quotes_list = [
     To enter others' minds and let them enter yours.
     """
 ]
-
-# # Test how it comes out in the terminal
-# number_elements = len(quotes_list)
-# print(number_elements)
-# for i in range(0, number_elements):
-#     print(quotes_list[i])
