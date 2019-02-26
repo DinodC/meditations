@@ -42,8 +42,7 @@ quotes_list = [
     """
     When you have trouble getting out of bed in the morning, remember that your
     defining characteristic is to work with others. Even animals know how to
-    sleep. And it's the characteristic activity that's the more natural one -
-    more innate and more satisfying.
+    sleep.
     """,
     """
     Apply them constantly, to everything that happens: Physics. Ethics. Logic.
@@ -78,16 +77,17 @@ quotes_list = [
     tomorrow.
     """,
     """
-    Three relationships:
-    i. with the body you inhabit;
-    ii. with the divine, the cause of everything in all things;
-    iii. with the people around you.
+    Three relationships: i. with the body you inhabit; ii. with the divine, the
+    cause of everything in all things; iii. with the people around you.
     """,
     """
     Either pain affects the body (which is the body's problem) or it affects the
     soul. But the soul can choose not to be affected, preserving its own
-    serenity, its own tranquility. All our decisions, urges, desires, aversions
-    lie within. No evil can touch them.
+    serenity, its own tranquility.
+    """,
+    """
+    All our decisions, urges, desires, aversions lie within. No evil can touch
+    them.
     """,
     """
     To erase false perceptions, tell yourself: I have it in me to keep my soul
@@ -110,8 +110,7 @@ quotes_list = [
     """
     Don't let your imagination be crushed by life as a whole. Don't try to
     picture everything bad that could possibly happen. Stick with the situation
-    at hand, and ask, "Why is this so unbearable? Why can't I endure it?" You'll
-    be embarassed to answer.
+    at hand, and ask, "Why is this so unbearable? Why can't I endure it?".
     """,
     """
     Stop perceiving the pain you imagine and you'll remain completely unaffected.
@@ -139,9 +138,8 @@ quotes_list = [
     you.
     """,
     """
-    The cucumber is bitter? Then throw it out.
-    There are brambles in the path? Then go around them.
-    That's all you need to know. Nothing more.
+    The cucumber is bitter? Then throw it out. There are brambles in the path?
+    Then go around them. That's all you need to know. Nothing more.
     """,
     """
     No carelessness in your actions. No confusion in your words. No imprecision
@@ -166,10 +164,10 @@ quotes_list = [
     What doesn't transmit light creates its own darkness.
     """,
     """
-    Fear of death is fear of what we may experience. Nothing at all, or
-    something quite new. But if we experience nothing, we can experience nothing
-    bad. And if our experience changes, then our existence will change with it -
-    change, but not cease.
+    Fear of death is fear of what we may experience. Nothing at all, or something
+     quite new. But if we experience nothing, we can experience nothing bad. And
+     if our experience changes, then our existence will change with it but not
+     cease.
     """,
     """
     People exist for one another. You can instruct or endure them.

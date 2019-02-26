@@ -16,9 +16,12 @@ quotes_list = [
     """,
     """
     At some point you have to recognize what world it is that you belong to;
-    what power rules it and from what source you spring; that there is a limit
-    to the time assigned you, and if you don't use it to free yourself it will
-    be gone and will never return.
+    what power rules it and from what source you spring.
+    """,
+    """
+    At some point you have to recognize that there is a limit to the time
+    assigned you, and if you don't use it to free yourself it will be gone and
+    will never return.
     """,
     """
     Concentrate every minute like a Roman - like a man - on doing what's in
@@ -55,14 +58,11 @@ quotes_list = [
     """
     Nothing is more pathetic than people who run around in circles, conducting
     investigations into the souls of the people around them, never realizing
-    that all you have to do is to be attentive to the power inside you and
-    worship it sincerely.
+    that all you have to do is to be attentive to the power inside you.
     """,
     """
     What is divine deserves our respect because it is good; what is human
-    deserves our affection because it is like us. And our pity too, sometimes,
-    for its inability to tell good from bad - as terrible a blindness as the
-    kind that can't tell white from black.
+    deserves our affection because it is like us.
     """,
     """
     Even if you're going to live three thousand more years, or ten times that,
@@ -85,10 +85,10 @@ quotes_list = [
       and what you do not have, you cannot lose.
     """,
     """
-    The human soul degrades itself, above all, when it does its best to become
-    an abscess, a kind of detached growth on the world. To be disgruntled at
-    anything that happens is a kind of secession from Nature, which comprises
-    the nature of all things.
+    The human soul degrades itself when it does its best to become an abscess, a
+    kind of detached growth on the world. To be disgruntled at anything that
+    happens is a kind of secession from Nature, which comprises the nature of all
+    things.
     """,
     """
     The human soul degrades itself when it turns its back on another person or
@@ -111,14 +111,13 @@ quotes_list = [
     warfare and a journey far from home, lasting reputation is oblivion.
     """,
     """
-    Which means making sure that the power within stays safe and free from
-    assault, superior to pleasure and pain, doing nothing randomly or
-    dishonestly and with imposture, not dependent on anyone else's doing
-    something or not doing it.
+    Make sure that the power within stays safe and free from assault, superior to
+     pleasure and pain, doing nothing randomly or dishonestly and with imposture,
+     not dependent on anyone else's doing something or not doing it.
     """,
     """
-    And making sure that it accepts what happens and what it is dealt as coming
-    from the same place it came from.
+    Make sure that it accepts what happens and what it is dealt as coming from
+    the same place it came from.
     """,
     """
     And above all, that it accepts death in a cheerful spirit, as nothing but

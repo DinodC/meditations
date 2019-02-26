@@ -7,10 +7,9 @@ quotes_list = [
     things are good, and always will be.
     """,
     """
-    Everything that happens is either endurable or not.
-    If it's endurable, then endure it. Stop complaining.
-    If it's unendurable... then stop complaining. Your destruction will mean its
-    end as well.
+    Everything that happens is either endurable or not. If it's endurable, then
+    endure it. Stop complaining. If it's unendurable... then stop complaining.
+    Your destruction will mean its end as well.
     """,
     """
     If they made a mistake, correct them gently and show them where they went
@@ -18,9 +17,8 @@ quotes_list = [
     """,
     """
     So by keeping in mind the whole I form a part of, I'll accept whatever
-    happens. And because of my relationship to other parts, I will do nothing
-    selfish, but aim instead to join them, to direct my every action toward what
-    benefits us all and to avoid what doesn't.
+    happens. I will do nothing selfish, but aim instead to join them, to direct
+    my every action toward what benefits us all and to avoid what doesn't.
     """,
     """
     Epithets for yourself: Upright. Modest. Straightforward. Sane. Cooperative.
@@ -46,11 +44,9 @@ quotes_list = [
     about, or just let slide.
     """,
     """
-    Your actions and perceptions need to aim:
-    * at accomplishing practical ends
-    * at the exercise of thought
-    * at maintaining a confidence founded on understanding. An unobtrusive
-    confidence - hidden in plain sight.
+    Your actions and perceptions need to aim: * at accomplishing practical ends
+    * at the exercise of thought * at maintaining a confidence founded on
+    understanding. An unobtrusive confidence - hidden in plain sight.
     """,
     """
     He has stripped away his body and - realizing that at some point soon he
@@ -58,10 +54,10 @@ quotes_list = [
     himself to serving justice in all he does, and nature in all that happens.
     """,
     """
-    Why all this guesswork? You can see what needs to be done. If you can see
-    the road, follow it. Cheerfully, without turning back. If not, hold up and
-    get the best advice you can. If anything gets in the way, forge on ahead,
-    making good use of what you have on hand, sticking to what seems right.
+    If you can see the road, follow it. Cheerfully, without turning back. If not,
+    hold up and get the best advice you can. If anything gets in the way, forge
+    on ahead, making good use of what you have on hand, sticking to what seems
+    right.
     """,
     """
     To follow the logos in all things is to be relaxed and energetic, joyful and
@@ -88,23 +84,23 @@ quotes_list = [
     Each of us needs what nature gives us, when nature gives it.
     """,
     """
-    Possibilities:
-    i. To keep on living (you should be used to it by now)
-    ii. To end it (it was your choice, after all)
-    iii. To die (having met your obligations)
-    Those are the only options.
+    Possibilities: i. To keep on living (you should be used to it by now) ii. To
+    end it (it was your choice, after all) iii. To die (having met your
+    obligations) Those are the only options.
     """,
     """
-    My mind. What is it? What am I making of it? What am I using it for?
-        Is it empty of thought?
-        Isolated and torn loose from those around it?
-        Melted into flesh and blended with it, so that it shares its urges?
+    My mind. What is it? What am I making of it? What am I using it for? Is it
+    empty of thought? Isolated and torn loose from those around it? Melted into
+    flesh and blended with it, so that it shares its urges?
     """,
     """
     To bear in mind constantly that all of this has happened before. And will
     happen again - the same plot from the beginning to end, the identical
     staging. Produce them in your mind, as you know them from experience or from
-    history. All just the same. Only the people different.
+    history.
+    """,
+    """
+    All just the same. Only the people different.
     """,
     """
     That everything has to submit. But only rational beings can do so
@@ -139,15 +135,15 @@ quotes_list = [
     """,
     """
     If you've immersed yourself in the principles of truth, the briefest, most
-    random reminder is enough to dispel all fear and pain:
-    ...leaves that the wind drives earthward; such are the generations of men.
-    Your children, leaves.
+    random reminder is enough to dispel all fear and pain: ...leaves that the
+    wind drives earthward; such are the generations of men. Your children,
+    leaves.
     """,
     """
     A healthy pair of eyes should see everything that can be seen. A healthy
-    sense of hearing or smell should be prepared for any sound or scent; a
-    healthy stomach should have the same reaction to all foods. So too a healthy
-    mind should be prepared for anything.
+    sense of hearing should be prepared for any sound; a healthy stomach should
+    have the same reaction to all foods. So too a healthy mind should be prepared
+    for anything.
     """,
     """
     Learn to ask of all actions, "Why are they doing that?"

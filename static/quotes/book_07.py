@@ -1,11 +1,8 @@
 quotes_list = [
     """
-    Evil: the same old thing.
-    No matter what happens, keep this in mind: It's the same old thing, from one
-    end of the world to the other. It fills the history books, ancient and
-    modern, and the cities, and the houses too.
-    Nothing new at all.
-    Familiar, transient.
+    Evil: the same old thing. No matter what happens, keep this in mind: It's
+    the same old thing, from one end of the world to the other. It fills the
+    history books, ancient and modern, and the cities, and the houses too.
     """,
     """
     I can control my thoughts as necessary; then how can I be troubled? What is
@@ -63,7 +60,11 @@ quotes_list = [
     To feel affection for people even when they make mistakes is uniquely human.
     You can do it, if you simply recognize: that they're human too, that they
     act out of ignorance, against their will, and that you'll both be dead
-    before long. And, above all, that they haven't really hurt you.
+    before long.
+    """,
+    """
+    To fell affection for people even when they make mistakes is uniquely human.
+    You can do it, if you simply recognize that they haven't really hurt you.
     """,
     """
     Anger in the face is unnatural.
@@ -76,8 +77,11 @@ quotes_list = [
     """
     Treat what you don't have as nonexistent. Look at what you have, the things
     you value most, and think of how much you'd crave them if you didn't have
-    them. But be careful. Don't feel such satisfaction that you start to
-    overvalue them - that it would upset you to lose them.
+    them.
+    """,
+    """
+    Don't feel such satisfaction that you start to overvalue them - that it
+    would upset you to lose them.
     """,
     """
     Discard your misperceptions.
@@ -139,11 +143,9 @@ quotes_list = [
     ressource in tight places, a better forgiver of faults.
     """,
     """
-    Everywhere, at each moment, you have the opinion:
-        * to accept this event with humility
-        * to treat this person as he should be treated
-        * to approach this thought with care, so that nothing irrational
-        creeps in.
+    Everywhere, at each moment, you have the opinion: * to accept this event
+    with humility * to treat this person as he should be treated * to approach
+    this thought with care, so that nothing irrational creeps in.
     """,
     """
     Don't pay attention to other people's minds. Look straight ahead, where
@@ -166,16 +168,15 @@ quotes_list = [
     """
     What the body needs is stability. To be impervious to jolts in all it is and
     does. The cohesiveness and beauty that intelligence lends to the face -
-    that's what the body needs.
-    But it should come without effort.
+    that's what the body needs. But it should come without effort.
     """,
     """
     Not a dancer but a wrestler: waiting, poised and dug in, for sudden assaults.
     """,
     """
-    For the times when you feel pain:
-    See that it doesn't disgrace you, or degrade your intelligence - doesn't
-    keep it from acting rationally or unselfishly.
+    For the times when you feel pain: See that it doesn't disgrace you, or
+    degrade your intelligence - doesn't keep it from acting rationally or
+    unselfishly.
     """,
     """
     And in most cases what Epicurus said should help: that pain is neither

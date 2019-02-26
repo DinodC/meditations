@@ -27,22 +27,17 @@ quotes_list = [
     And you can also commit injustice by doing nothing.
     """,
     """
-    Objective judgement, now, at this very moment.
-    Unselfish action, now, at this very moment.
-    Willing acceptance - now, at this very moment - of all external events.
-    That's all you need.
+    Objective judgement, now, at this very moment. Unselfish action, now, at
+    this very moment. Willing acceptance - now, at this very moment - of all
+    external events. That's all you need.
     """,
     """
-    Convince them not to.
-    If you can.
-    And if not, remember: the capacity for patience was given us for a reason.
+    Convince them not to. If you can. And if not, remember: the capacity for
+    patience was given us for a reason.
     """,
     """
-    Work:
-    Not to rouse pity, not to win sympathy or admiration. Only this:
-    Activity.
-    Stillness.
-    As the logos of the state requires.
+    Work: Not to rouse pity, not to win sympathy or admiration. Only this:
+    Activity. Stillness. As the logos of the state requires.
     """,
     """
     Today I escaped from anxiety. Or no, I discarded it, because it was within
@@ -51,8 +46,7 @@ quotes_list = [
     """
     Things wait outside us, hover at the door. They keep to themselves. Ask them
     who they are and they don't know, they can give no account of themselves.
-    What accounts for them?
-    The mind does.
+    What accounts for them? The mind does.
     """,
     """
     Enter their minds, and you'll find the judges you're so afraid of and how
@@ -66,12 +60,10 @@ quotes_list = [
     Leave other people's mistakes where they lie.
     """,
     """
-    Go straight to the seat of intelligence - your own, the world's, your
-    neighbor's.
-        Your own - to ground it in justice.
-        The world's - to remind yourself what it is that you're part of.
-        Your neighbor's - to distinguish ignorance from calculation.
-    And recognize it as like yours.
+    Go straight to the seat of intelligence. Your own - to ground it in justice.
+    The world's - to remind yourself what it is that you're part of. Your
+    neighbor's - to distinguish ignorance from calculation. And recognize it as
+    like yours.
     """,
     """
     Identify its purpose - what makes it what it is - and examine that. (Ignore
@@ -80,22 +72,18 @@ quotes_list = [
     """,
     """
     Do what nature demands. Get a move on - if you have it in you and don't
-    worry whether anyone will give you credit for it. And don't go expecting
-    Plato's Republic; be satisfied with even the smallest progress, and treat
-    outcome of it all as unimportant.
+    worry whether anyone will give you credit for it. And be satisfied with
+    even the smallest progress, and treat outcome of it all as unimportant.
     """,
     """
-    Indifference to external events.
-    And a commitment to justice in your own acts.
-    Which means: thought and action resulting in the common good.
-    What you were born to do.
+    Indifference to external events. And a commitment to justice in your own
+    acts. Which means: thought and action resulting in the common good. What you
+    were born to do.
     """,
     """
-    You can discard most of the junk that clutters your mind - things that exist
-    only there - and clear out space for yourself:
-    ...by comprehending the scale of the world
-    ...by contemplating infinite time
-    ...by thinking of the speed with which things change.
+    You can discard most of the junk that clutters your mind and clear out space
+     for yourself: ...by comprehending the scale of the world ...by contemplating
+     infinite time ...by thinking of the speed with which things change.
     """,
     """
     If they've injured you, then they're the ones who suffer for it. But have
@@ -104,15 +92,13 @@ quotes_list = [
     """
     Either the gods have power or they don't. If they don't, why pray? If they
     do, then why not pray for something else instead of for things to happen or
-    not to happen? Pray not to feel fear. Or desire, or grief. If the gods can
-    do anything, they can surely do that for us.
+    not to happen? Pray not to feel fear. Or desire, or grief.
     """,
     """
-    Start praying like this and you'll see.
-    Not "some way to sleep with her" - but a way to stop wanting to.
-    Not "some way to get rid of him" - but a way to stop trying.
-    Not "some way to save my child" - but a way to lose your fear.
-    Redirect your prayers like that, and watch what happens.
+    Not 'some way to sleep with her' - but a way to stop wanting to. Not 'some
+    way to get rid of him' - but a way to stop trying. Not 'some way to save my
+    child' - but a way to lose your fear. Redirect your prayers, and watch what
+    happens.
     """,
     """
     When you run up against someone else's shamelessness, ask yourself this: Is

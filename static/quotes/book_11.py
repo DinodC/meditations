@@ -11,9 +11,8 @@ quotes_list = [
     """,
     """
     The resolute soul: resolute in separation from the body. And then in the
-    dissolution or fragmentation - or continuity.
-    But the resolution has to be the result of its own decision, not just in
-    response to outside forces.
+    dissolution or fragmentation - or continuity. But the resolution has to be
+    the result of its own decision, not just in response to outside forces.
     """,
     """
     The branch is cut off by someone else. But people cut themselves off -
@@ -44,10 +43,9 @@ quotes_list = [
     Mine: not to do or say anything despicable.
     """,
     """
-    Someone hates me. Their problem.
-    Mine: to be patient and cheerful with everyone, including them. Ready to
-    show them their mistake. Not spitefully, or to show off my own self-control,
-    but in an honest, upright way.
+    Someone hates me. Their problem. Mine: to be patient and cheerful with
+    everyone, including them. Ready to show them their mistake. Not spitefully,
+    or to show off my own self-control, but in an honest, upright way.
     """,
     """
     They flatter one another out of contempt, and their desire to rule one
@@ -56,8 +54,7 @@ quotes_list = [
     """
     The despicable phoniness of people who say, 'Listen, I'm going to level with
     you here.' What does that mean? It shouldn't even need to be said. It should
-    be obvious - written in block letters on your forehead. It should be audible
-    in your voice, and visible in your eyes.
+    be obvious.
     """,
     """
     A straightforward, honest person should be like someone who stinks: when
@@ -78,22 +75,22 @@ quotes_list = [
     whole. Keeping in mind that none of them can dictate how we perceive it.
     """,
     """
-    They don't perceive it. They don't impose themselves on us. They hover
-    before us, unmoving. It is we who generate the judgments - inscribing them
-    on ourselves. And we don't have to. We could leave the page blank - and if
-    a mark slips through, erase it instantly.
+    They don't impose themselves on us. They hover before us, unmoving. It is we
+    who generate the judgments. And we don't have to. We could leave the page
+    blank - and if a mark slips through, erase it instantly.
     """,
     """
     And why is it so hard when things go against you? If it's imposed by nature,
     accept it gladly and stop fighting it. And if not, work out what your own
     nature requires, and aim at that, even if it brings you no glory.
+    """,
+    """
     None of us is forbidden to pursue our own good.
     """,
     """
-    That you've made enough mistakes yourself. You're just like them.
-    Even if there are some you've avoided, you have the potential.
-    Even if cowardice has kept you from them. Or fear of what people would say.
-    Or some equally bad reason.
+    That you've made enough mistakes yourself. You're just like them. Even if
+    there are some you've avoided, you have the potential. Even if cowardice has
+    kept you from them. Or fear of what people would say.
     """,
     """
     That you don't know for sure it is a mistake. A lot of things are means to
@@ -121,10 +118,8 @@ quotes_list = [
     That kindness is invincible, provided it's sincere - not ironic or an act.
     """,
     """
-    What can even the most vicious person do if you keep treating him with
-    kindness and gently set him straight - correcting him cheerfully at the
-    exact moment that he's trying to do you harm. 'No, no, my friend. That isn't
-    what we're here for. It isn't me who's harmed by that. It's you.'
+    'No, no, my friend. That isn't what we're here for. It isn't me who's harmed
+    by that. It's you.'
     """,
     """
     That to expect bad people not to injure others is crazy. It's to ask the
@@ -132,12 +127,10 @@ quotes_list = [
     to exempt you is arrogant - the act of a tyrant.
     """,
     """
-    Four habits of thought to watch for:
-        * This thought is unnecessary
-        * This one is destructive to the people around you
-        * This wouldn't be what you really think.
-    And that the more divine part of you has been beaten and subdued by the
-    degraded mortal part.
+    Four habits of thought to watch for: * This thought is unnecessary * This one
+    is destructive to the people around you * This wouldn't be what you really
+    think. And that the more divine part of you has been beaten by the mortal
+    part.
     """,
     """
     If you don't have a consistent goal in life, you can't live it in a
@@ -146,8 +139,7 @@ quotes_list = [
     """
     There is no common benchmark for all the things that people think are good -
     except for a few, the ones that affect us all. So the goal should be a
-    common one - a civic one. If you direct all your energies toward that, your
-    actions will be consistent. And so will you.
+    common one - a civic one.
     """,
     """
     Socrates used to call popular beliefs 'the monsters under the bed' - only
@@ -177,9 +169,9 @@ quotes_list = [
     may be dead in the morning.'
     """,
     """
-    'We need to master the art of acquiescence. We need to pay attention to our
-    impulses, making sure they don't go unmoderated, that they benefit others,
-    that they're worthy of us. We need to steer clear of desire in any form and
-    not try to avoid what's beyond our control.'
+    We need to pay attention to our impulses, making sure they don't go
+    unmoderated, that they benefit others, that they're worthy of us. We need to
+     steer clear of desire in any form and not try to avoid what's beyond our
+     control.'
     """
 ]

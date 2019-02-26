@@ -179,8 +179,11 @@ quotes_list = [
     """
     -It's unfortunate that this has happened. No. It's fortunate that this has
     happened and I've remained unharmed by it - not shattered by the present or
-    frightened of the future. It could have happened to anyone. But not everyone
-     could have remained unharmed by it.
+    frightened of the future.
+    """,
+    """
+    It could have happened to anyone. But not everyone could have remained
+    unharmed by it.
     """,
     """
     So remember this principle when something threatens to cause you pain: the
@@ -193,7 +196,10 @@ quotes_list = [
     """,
     """
     Our lifetime is so brief. And to live it out in these circumstances, among
-    these people, in this body? Nothing to get excited about. Consider the abyss
+    these people, in this body? Nothing to get excited about.
+    """,
+    """
+    Consider the abyss
     of time past, the infinite future. Three days of life or three generations:
     what's the difference?
     """,

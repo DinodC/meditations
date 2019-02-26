@@ -24,9 +24,12 @@ quotes_list = [
     """,
     """
     Perceptions like that - latching onto things and piercing through them, so
-    we see what they really are. That's what we need to do all the time - all
-    through our lives when things lay claim to our trust - to lay them bare and
-    see how pointless they are, to strip away the legend that encrusts them.
+    we see what they really are.
+    """,
+    """
+    That's what we need to do all the time - all through our lives when
+    things lay claim to our trust - to lay them bare and see how pointless
+    they are, to strip away the legend that encrusts them.
     """,
     """
     Pride is a master of deception: when you think you're occupied in the
@@ -52,10 +55,9 @@ quotes_list = [
     frustrations on the gods.
     """,
     """
-    Whereas to respect your own mind - to prize it -
-    will leave you satisfied with your own self, well integrated into your
-    community and in tune with the gods as well - embracing what they allot you,
-    and what they ordain.
+    Whereas to respect your own mind - to prize it - will leave you satisfied
+    with your own self, well integrated into your community and in tune with the
+    gods as well - embracing what they allot you, and what they ordain.
     """,
     """
     Not to assume it's impossible because you find it hard. But to recognize
@@ -69,9 +71,11 @@ quotes_list = [
     """,
     """
     We just keep an eye on them after that. Not out of hatred or suspicion. Just
-    keeping a friendly distance. We need to do that in other areas. We need to
-    excuse what our sparring partners do, and just keep our distance - without
-    suspicion or hatred.
+    keeping a friendly distance. We need to do that in other areas.
+    """,
+    """
+    We need to excuse what our sparring partners do, and just keep our distance
+    - without suspicion or hatred.
     """,
     """
     It's the truth I'm after, and the truth never harmed anyone.
@@ -80,8 +84,7 @@ quotes_list = [
     """
     When you deal with irrational animals, with things and circumstances, be
     generous and straightforward. You are rational; they are not. When you deal
-    with fellow human beings, behave as one. They share in the logos. And invoke
-    the gods regardless.
+    with fellow human beings, behave as one. They share in the logos.
     """,
     """
     Think of how much is going on inside you every second - in your soul, in
@@ -97,7 +100,10 @@ quotes_list = [
     """
     How cruel - to forbid people to want what they think is good for them. And
     yet that's just what you won't let them do when you get angry at their
-    misbehavior. -But it's not good for them. Then show them that. Prove it to
+    misbehavior.
+    """,
+    """
+    -But it's not good for them. Then show them that. Prove it to
     them. Instead of losing your temper.
     """,
     """
@@ -196,22 +202,25 @@ quotes_list = [
     God, or to treat other people as enemies.
     """,
     """
-    All of us are working on the same project. Some consciously, with
-    understanding; some without knowing it. Some of us work in one way, and some
-    in others. And those who complain and try to obstruct and thwart things -
-    they help as much as anyone.
+    All of us are working on the same project. Some consciously, some without
+    knowing it. Some of us work in one way, and some in others. And those who
+    complain and try to obstruct and thwart things - they help as much as
+    anyone.
     """,
     """
     So make up your mind who you'll choose to work with. The force that directs
     all things will make good use of you regardless - will put you on its
-    payroll and set you to work. But make sure it's not the job Chrysippus
-    speaks of: the bad line in the play, put there for laughs.
+    payroll and set you to work.
+    """,
+    """
+    But make sure it's not the job Chrysippus speaks of: the bad line in the
+    play, put there for laughs.
     """,
     """
     If the gods have made decisions about me and the things that happen to me,
     then they were good decisions. And why would they expend their energies on
-    causing me harm? What good would it do them - or the world, which is their
-    primary concern?
+    causing me harm? What good would it do the world, which is their primary
+    concern?
     """,
     """
     And if they haven't made decisions about me as an individual, they certainly

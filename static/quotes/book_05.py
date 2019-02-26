@@ -39,9 +39,9 @@ quotes_list = [
     """,
     """
     Some people, when they do someone a favor, are always looking for a chance
-    to call it in. And some aren't, but they're still aware of it - still regard
-    it as a debt. But others don't even do that. They're like a vine that
-    produces grapes without looking for anything in return.
+    to call it in. And some aren't, but they're still aware of it, still regard
+    it as a debt. But others don't even do that, they do it without looking for
+    anything in return.
     """,
     """
     Prayer of the Athenians: 'Zeus, rain down, rain down, on the land and fields
@@ -50,8 +50,8 @@ quotes_list = [
     """
     Just as you overhear people saying that 'the doctor prescribed such-and-such
     for him', say this: 'Nature prescribed illness for him.' Or blindness. Or
-    the loss of a limb. Or whatever. There 'prescribed' means something like
-    'ordered, so as to further his recovery.'
+    the loss of a limb. There 'prescribed' means something like 'ordered, so as
+    to further his recovery.'
     """,
     """
     And so too here. What happens to each of us is ordered. It
@@ -89,31 +89,36 @@ quotes_list = [
     """,
     """
     We need to comfort ourselves and wait for dissolution. And not get impatient
-    in the meantime, but take refuge in these two things: i. Nothing can happen
-    to me that isn't natural. ii. I can keep from doing anything that God and my
-     own spirit don't approve. No one can force me to.
+    in the meantime, but take refuge in: i. Nothing can happen to me that isn't
+    natural. ii. I can keep from doing anything that God and my own spirit don't
+    approve.
     """,
     """
-    What am I doing with my soul?
-    Interrogate yourself, to find out what inhabits your so-called mind and what
-    kind of soul you have now. A child's soul, an adolescent's, a woman's? A
-    tyrant's soul? The soul of a predator - or it's prey?
+    What am I doing with my soul? Interrogate yourself, to find out what
+    inhabits your so-called mind and what kind of soul you have now. A child's
+    soul, an adolescent's, a woman's? A tyrant's soul? The soul of a predator -
+    or it's prey?
     """,
     """
     The things you think about determine the quality of your mind. Your soul
-    takes on the color of your thoughts. Color it with a run of thoughts like
-    these: i. Anywhere you can lead your life, you can lead a good one.
-    ii. Things gravitate toward what they were intended for.
+    takes on the color of your thoughts.
+    """,
+    """
+    Color your soul with a run of thoughts like these: i. Anywhere you can lead
+    your  life, you can lead a good one. ii. Things gravitate toward what they
+    were intended for.
     """,
     """
     It is crazy to want what is impossible. And impossible for the wicked not to
     do so.
     """,
     """
-    Nothing happens to anyone that he can't endure. The same thing happens to
-    other people, and they weather it unharmed - out of sheer obliviousness or
-    because they want to display 'character.' Is wisdom really so much weaker
-    than ignorance and vanity?
+    Nothing happens to anyone that he can't endure.
+    """,
+    """
+    The same thing happens to other people, and they weather it unharmed - out
+    of sheer obliviousness or because they want to display 'character.' Is
+    wisdom really so much weaker than ignorance and vanity?
     """,
     """
     In a sense, people are our proper occupation. Our job is to do them good and
@@ -143,14 +148,15 @@ quotes_list = [
     """
     When they make their way into your thoughts, through the sympathetic link
     between mind and body, don't try to resist the sensation. The sensation is
-    natural. But don't let the mind start in with judgments, calling it 'good'
-    or 'bad'.
+    natural. But don't let the mind start calling it 'good' or 'bad'.
     """,
     """
     Don't be irritated at people's smell or bad breath. What's the point? With
-    that mouth, with those armpits, they're going to produce that odor. Use your
-    logic to awaken his. Show him. Make him realize it. If he'll listen, then
-    you'll solve the problem. Without anger.
+    that mouth, with those armpits, they're going to produce that odor.
+    """,
+    """
+    Use your logic to awaken his. Show him. Make him realize it. If he'll
+    listen, then you'll solve the problem. Without anger.
     """,
     """
     Consider all that you've gone through, all that you've survived. How many

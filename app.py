@@ -18,17 +18,17 @@ def index():
         temp_book = random.choice(os.listdir('static/quotes/'))
         temp_bookname = os.path.splitext(temp_book)[0]
 
-    # For production: pick a book
-    book_to_import = import_module('static.quotes.' + temp_bookname)
-    # # For testing: fix a book
-    # book_to_import = import_module('static.quotes.book_' + '05')
+    # # For production: pick a book
+    # book_to_import = import_module('static.quotes.' + temp_bookname)
+    # For testing: fix a book
+    book_to_import = import_module('static.quotes.book_' + '02')
 
 
-    # For production: pick a quote
     temp_quote_list = book_to_import.quotes_list
-    temp_quote = random.choice(temp_quote_list)
-    # # For testing: fix quote index
-    # temp_quote = temp_quote_list[36]
+    # # For production: pick a quote
+    # temp_quote = random.choice(temp_quote_list)
+    # For testing: fix quote index
+    temp_quote = temp_quote_list[24]
 
 
     # For production: pick an image

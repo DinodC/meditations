@@ -63,8 +63,7 @@ quotes_list = [
     """
     It would be wrong for anything to stand between you and attaining goodness.
     Anything at all: the applause of the crowd, high office, wealth, or
-    self-indulgence. All of them might seem to be compatible with it, but
-    suddenly they control us and sweep us away.
+    self-indulgence.
     """,
     """
     Never regard something as doing you good if it makes you betray a trust, or
@@ -78,8 +77,7 @@ quotes_list = [
     """
     Your ability to control your thoughts - treat it with respect. It's all that
     protects your mind from false perceptions - false to your nature, and that
-    of all rational beings. It's what makes thoughtfulness possible, and
-    affection for other people, and submission to the divine.
+    of all rational beings.
     """,
     """
     Forget everything else. Keep hold of this alone and remember it: Each of us
@@ -89,8 +87,7 @@ quotes_list = [
     """
     Nothing is so conducive to spiritual growth as this capacity for logical and
     accurate analysis of everything that happens to us. To look at it in such a
-    way that we understand what need it fulfills, and in what kind of world. And
-    its value to that world as a whole and to man in particular.
+    way that we understand what need it fulfills, and in what kind of world. 
     """,
     """
     If you do the job in a principled way, with diligence, energy and patience,
