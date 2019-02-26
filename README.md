@@ -1,7 +1,6 @@
 # Meditations by Marcus Aurelius
 The web application provides an ancient drop of knowledge from the
-philosopher-king Marcus Aurelius.
-http://meditations-marcus-aurelius.info
+philosopher-king Marcus Aurelius. Check it out on http://meditations-marcus-aurelius.info
 
 ## Getting Started
 To get started, clone the repository https://github.com/DinodC/meditations
